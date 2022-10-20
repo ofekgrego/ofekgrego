@@ -1,4 +1,12 @@
-### Hi there 👋
+
+<h1 align="center">Hi 👋, My Name Is Ofek.  <img height="50" width="50" src="https://cdn3.emoji.gg/emojis/8770-burger.gif"></h1>
+
+<h3 align="center">Hi! I'm <a href="https://github.com/ofekgrego">@ofekgrego</a> from Israel🇮🇱, I Love to Eat🍟, And to Code👨🏼‍💻</h3>
+
+
+<p align="center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ofekgrego&theme=dark&show_icons=true&include_all_commits=true" />
+</p>
 
 <!--
 **ofekgrego/ofekgrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
